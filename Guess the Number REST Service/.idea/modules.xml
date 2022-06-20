@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Guess the Number REST Service.iml" filepath="$PROJECT_DIR$/.idea/Guess the Number REST Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
+    </modules>
+  </component>
+</project>
